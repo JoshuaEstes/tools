@@ -1,0 +1,13 @@
+{
+    "name": "joshua/tools",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "require": {
+        "symfony/console": "2.2.*",
+        "symfony/dependency-injection": "2.2.*",
+        "symfony/event-dispatcher": "2.2.*",
+        "symfony/process": "2.2.*"
+    }
+}
